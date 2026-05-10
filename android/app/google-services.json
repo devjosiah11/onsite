@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "152850783556",
+    "project_id": "learnify-96e03",
+    "storage_bucket": "learnify-96e03.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152850783556:android:a0d02283492288ee910b11",
+        "android_client_info": {
+          "package_name": "com.example.attendsure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhJprHNvAy-5ZZ5feYkk8-73j4Dz-cS-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152850783556:android:1aeed4854481a0ee910b11",
+        "android_client_info": {
+          "package_name": "com.tapchap.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhJprHNvAy-5ZZ5feYkk8-73j4Dz-cS-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
