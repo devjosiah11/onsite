@@ -390,7 +390,7 @@ class LecturerDashboard extends StatelessWidget {
 
     Get.dialog(
       StatefulBuilder(builder: (context, setDialogState) {
-        qrTimer ??= Timer.periodic(const Duration(seconds: 30), (timer) {
+        qrTimer ??= Timer.periodic(const Duration(seconds: 60), (timer) {
           setDialogState(() {
             currentOtp = OTPService.generateTOTP(secret);
           });
